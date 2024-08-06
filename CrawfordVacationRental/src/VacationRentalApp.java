@@ -70,7 +70,7 @@ public class VacationRentalApp extends JFrame {
 	
 	public VacationRentalApp() {
 		setTitle("Lambert's Vacation Rentals");
-		setSize(300, 200);
+		setSize(350, 250);
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setLocationRelativeTo(null);
 		
